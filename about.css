@@ -1,0 +1,83 @@
+table {
+    width: 1259px;
+    background-color: blue;
+    margin: auto;
+    height: 500px;
+}    
+    
+
+   
+
+table, th, td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    color: black; 
+    font-size: x-large;  
+}
+
+
+th, td {
+    padding: 10px;
+
+    
+}
+
+body {
+    /* background-image: url(wineries/back1.jpeg); */
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: black;
+    font-style: italic; 
+    font-size: large;
+    
+  
+}
+nav li a{
+    color: black;
+    font-size:  large;
+    font-style: italic;
+    text-decoration: none;
+}
+nav li a:hover{
+    background-color:red;
+    color: white;
+}
+nav h1{
+    color: aliceblue;
+} 
+nav li {
+    display: inline;
+    padding: 80px;
+    
+   
+
+}
+nav li a{
+    color: black;
+    font-size: xx-large large;
+    font-style: italic;
+}  
+footer {
+    text-align:center;
+    margin-bottom: 5%;
+    background-size: 50%;
+    background-color:red;
+    color: white;
+    
+    
+   
+    
+}  
+caption{
+    color: #000;
+    font-style: italic;
+    font-size: xx-large;
+}
+
+
+
+
+
+    
+
+
